@@ -1,3 +1,3 @@
 mod 'example',
-  :git => 'https://github.com/tepicmilan/puppetfile',
+  :git => 'git@github.com:tepicmilan/example.git',
   :ref => 'master'
